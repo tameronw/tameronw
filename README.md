@@ -1,4 +1,4 @@
-# (hello, world) I'm Tam!
+# (hello, world) I'm Tam! 👨‍💻
 I graduated from Murray State University with a degree in Cybersecurity and Network Management.
 
 I’ve worked with networking, Linux, Windows, Active Directory, endpoint security, and helpdesk support. 
