@@ -8,7 +8,9 @@ Currently working on my home lab, staying up to date with industry, and actively
 Ready for my first IT role!👍🏽
 
 
-## 🡓🡓🡓 SEE WHAT I CAN DO 🡓🡓🡓 🔧 Technical Skills & Lab Work 
+## 🡓🡓🡓 SEE WHAT I CAN DO 🡓🡓🡓
+
+##🔧 Technical Skills & Lab Work 
 
 ### 🔐 Active Directory & Identity Management
 
