@@ -7,13 +7,15 @@ I build home labs, stay up to date with industry, and currently pursuing Network
 
 Ready for my first IT role!👍🏽
 
-## 🔧 Technical Skills & Lab Work`
+## 🔧 Technical Skills & Lab Work
 
 Here are my hands-on skills demonstrated through structured lab environments:
 
 ### 🔐 Active Directory & Identity Management
 
 * **Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
+
+* 
  
 * **Identity & Access Management (IAM)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
 
@@ -43,5 +45,10 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 * **Windows Endpoint Management (GPO)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
 
+### 🎫 Ticketing Systems & IT Support
 
-* **Linux Server Administration** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-5)
+* Ticket Lifecycle Management (Creation → Resolution) – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+* Incident & Service Request Handling – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+* SLA Awareness & Prioritization – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+
+
