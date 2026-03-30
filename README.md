@@ -39,7 +39,7 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 * **Windows Endpoint Management (GPO)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
   
-* **Linux Server Administration – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project#-lab-5--linux-server-administration)
+* **Linux Server Administration** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project#-lab-5--linux-server-administration)
 
 ### 🎫 Ticketing Systems & IT Support
 
