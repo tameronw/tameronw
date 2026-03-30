@@ -45,7 +45,6 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 * **Incident & Service Request Handling** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
 
-* **SLA Awareness & Prioritization** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
 
 
 
