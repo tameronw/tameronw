@@ -29,7 +29,7 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 ### 🌐 Networking & Infrastructure
 
-* **DNS Configuration & Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
+* **DNS Configuration & Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project#-lab-4--dns--dhcp-infrastructure-services)
 
 * **DHCP Setup & Administration** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
 
