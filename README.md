@@ -13,37 +13,35 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 ### 🔐 Active Directory & Identity Management
 
-* **Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
+- * **Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
+ 
+- * **Identity & Access Management (IAM)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
 
-
-* **Identity & Access Management (IAM)** – [Lab 1](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
-
-
-* **Group Policy Management (GPOs)** – [Lab 2](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
+- * **Group Policy Management (GPOs)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
 
 ### 🛡️ Security & Hardening
 
-* **Security Hardening Techniques** – [Lab 6](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-6--security-hardening--vulnerability-management)
+* **Security Hardening Techniques** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-6--security-hardening--vulnerability-management)
 
 
-* **Vulnerability Management** – [Lab 6](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-6--security-hardening--vulnerability-management)
+* **Vulnerability Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-6--security-hardening--vulnerability-management)
 
 
-* **NTFS Permissions & Access Control** – [Lab 3](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-3--file-services--ntfs-permission-management)
+* **NTFS Permissions & Access Control** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-3--file-services--ntfs-permission-management)
 
 ### 🌐 Networking & Infrastructure
 
-* **DNS Configuration & Management** – [Lab 4](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
+* **DNS Configuration & Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
 
 
-* **DHCP Setup & Administration** – [Lab 4](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
+* **DHCP Setup & Administration** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
 
 
-* **File Services Management** – [Lab 3](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-3--file-services--ntfs-permission-management)
+* **File Services Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-3--file-services--ntfs-permission-management)
 
 ### 💻 Systems Administration
 
-* **Windows Endpoint Management (GPO)** – [Lab 2](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
+* **Windows Endpoint Management (GPO)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
 
 
-* **Linux Server Administration** – [Lab 5](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-5)
+* **Linux Server Administration** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-5)
