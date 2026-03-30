@@ -13,22 +13,17 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 ### 🔐 Active Directory & Identity Management
 
-**Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
+* **Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
 
+* **Identity & Access Management (IAM)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
 
- 
-**Identity & Access Management (IAM)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
-
-
-**Group Policy Management (GPOs)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
+* **Group Policy Management (GPOs)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
 
 ### 🛡️ Security & Hardening
 
 * **Security Hardening Techniques** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-6--security-hardening--vulnerability-management)
 
-
 * **Vulnerability Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-6--security-hardening--vulnerability-management)
-
 
 * **NTFS Permissions & Access Control** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-3--file-services--ntfs-permission-management)
 
@@ -36,9 +31,7 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 * **DNS Configuration & Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
 
-
 * **DHCP Setup & Administration** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-skills-demonstrated-across-lab-4)
-
 
 * **File Services Management** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-3--file-services--ntfs-permission-management)
 
@@ -48,8 +41,11 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 ### 🎫 Ticketing Systems & IT Support
 
-* Ticket Lifecycle Management (Creation → Resolution) – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
-* Incident & Service Request Handling – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
-* SLA Awareness & Prioritization – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+* **Ticket Lifecycle Management (Creation → Resolution)** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+
+* **Incident & Service Request Handling** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+
+* **SLA Awareness & Prioritization** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+
 
 
