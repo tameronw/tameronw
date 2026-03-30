@@ -10,7 +10,7 @@ Ready for my first IT role!👍🏽
 
 ## 🡓🡓🡓 SEE WHAT I CAN DO 🡓🡓🡓
 
-##🔧 Technical Skills & Lab Work 
+## 🔧 Technical Skills & Lab Work 
 
 ### 🔐 Active Directory & Identity Management
 
