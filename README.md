@@ -13,8 +13,7 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 ### 🔐 Active Directory & Identity Management
 
-* **Active Directory (AD) Fundamentals** – [HERE](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
-
+* **Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
 
 
 * **Identity & Access Management (IAM)** – [Lab 1](#https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
