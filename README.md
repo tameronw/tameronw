@@ -13,11 +13,9 @@ Here are my hands-on skills demonstrated through structured lab environments:
 
 ### 🔐 Active Directory & Identity Management
 
-Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
+* **Active Directory (AD) Fundamentals** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
 
-
-
-Identity & Access Management (IAM)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
+* **Identity & Access Management (IAM)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-1--active-directory--identity-management)
 
 * **Group Policy Management (GPOs)** – [HERE](https://github.com/tameronw/Windows-Enterprise-Environment-Project?tab=readme-ov-file#-lab-2--group-policy--endpoint-management)
 
@@ -46,6 +44,9 @@ Identity & Access Management (IAM)** – [HERE](https://github.com/tameronw/Wind
 * **Ticket Lifecycle Management (Creation → Resolution)** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
 
 * **Incident & Service Request Handling** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+
+* **SLA Awareness & Prioritization** – [HERE](https://github.com/tameronw/ServiceNow-Ticketing-Lab?tab=readme-ov-file#servicenow-ticketing-system-lab)
+
 
 
 
