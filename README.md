@@ -3,7 +3,7 @@ I graduated from Murray State University with a degree in Cybersecurity and Netw
 
 Worked with networking, Linux, Windows, Active Directory, endpoint security, and helpdesk support. 
 
-I build home labs, stay up to date with industry, and currently pursuing Network+ and Security+. 
+Currently working on my home lab, staying up to date with industry, and actively pursuing my Network+ and Security+. 
 
 Ready for my first IT role!👍🏽
 
